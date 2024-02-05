@@ -42,23 +42,23 @@ A simple console-based To-Do app written in Python.
 Hello to my To-Do app!
 
 What do you want? (add/view/remove/exit): add
-Type the task: Complete README file
-Complete README file successfully added.
+Type the task: Task 1
+Task 1 successfully added.
 
 What do you want? (add/view/remove/exit): view
-0. Complete README file
+0. Task 1
 
 What do you want? (add/view/remove/exit): remove
 Enter task index (between 0-0) which you want to remove: 0
 Are you sure to delete Complete README file? Y/N: Y
-Order executed! Complete README file removed.
+Order executed! Task 1 removed.
 
 What do you want? (add/view/remove/exit): exit
 Program stopped. Thanks for using it.
 ```
 
-Contributing
+### Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
-License
+### License
 This project is licensed under the MIT License.
